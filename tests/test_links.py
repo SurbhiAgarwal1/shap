@@ -1,5 +1,6 @@
-import os
 import importlib.util
+import os
+
 import numpy as np
 import pytest
 
